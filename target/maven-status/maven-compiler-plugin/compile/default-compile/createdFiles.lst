@@ -1,0 +1,5 @@
+com/northland/ludwin/barbin/ludwin/controller/HotelController.class
+com/northland/ludwin/barbin/ludwin/LudwinApplication.class
+com/northland/ludwin/barbin/ludwin/domain/Hotel.class
+com/northland/ludwin/barbin/ludwin/service/HotelService.class
+com/northland/ludwin/barbin/ludwin/dao/HotelDao.class
